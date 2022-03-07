@@ -1,0 +1,28 @@
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.dsmovie-nav-content{
+    display: flex; /* mantem os elementos um ao lado do outro */
+    justify-content: space-between; /* separa os elementos um em cada ponta do espaço. texto d eum lado e github do outro */
+    align-items: center;
+    color: #FFF;
+}
+.dsmovie-nav-content h1 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.dsmovie-contact-container{
+    display: flex; /* mantem os elementos um ao lado do outro */
+    align-items: center;
+}
+
+.dsmovie-contact-link{
+    margin: 0 0 0 4px;
+    font-size: 12px;
+}
