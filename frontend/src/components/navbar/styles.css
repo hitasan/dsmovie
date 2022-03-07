@@ -10,7 +10,7 @@ header {
     justify-content: space-between; /* separa os elementos um em cada ponta do espaço. texto d eum lado e github do outro */
     align-items: center;
     color: #FFF;
-}
+} 
 .dsmovie-nav-content h1 {
     margin: 0;
     font-weight: bold;
